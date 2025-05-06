@@ -8900,3 +8900,10 @@ xBase:
   tm_scope: source.harbour
   ace_mode: text
   language_id: 421
+SNCL:
+  type: programming
+  extensions:
+    - ".sncl"
+    - ".snclproj"
+  tm_scope: source.sncl
+  color: "#ff8800"
